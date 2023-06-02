@@ -4,7 +4,7 @@
 
 
 
-✨ I am in the middle of the adventure to become a front end developer 
+✨ I am in the middle of the adventure to become a frontend developer 
 
 🎢 building up a strong foundation on HTML, CSS, JavaScript & Vue.js
 
